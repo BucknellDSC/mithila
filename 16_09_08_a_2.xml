@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <head>Maithili Folklore 16_09_08_a_2
+            Storyteller: Nibha Kumari
+            Documented by Dr. Coralynn V. Davis
+            Transcription and Translation by Pranav Prakash
+         </head>
+         <p>एकटा लड़का रॅहैछे, जेकर शादी होयेछे । उ अपन शादी होयेछे, नऽ, त बड खुश रहैछे, जे हमर शादी भैले ।
+            
+            There is a lad who gets married. He is very pleased with his marriage – “My marriage has
+            happened.”
+            
+            ओ...ओ खुशी में नऽ अपन सासुर जायेछे, तो ओकर सासुर में नऽ, सब ओते अमीर नै रहैछे, कनि गरीब टाईप के
+            रहैछे, तऽ ओकर सास न खिचड़ी बनाबैछै । जो...जे में नऽ दैल, आलू-ऊलू, सब कुछ दॅ कऽ बनबेछै, उ टेस्टी रॅहैछे,
+            ओकरा वैह खा ल दैछे, एक साइद में खिचड़ी रॅहैछे और एकटा कटौरी में भैड़ कऽ घी दॅ दे छै ।
+            
+            He…he is so happy that he pays a visit to his wife’s family in their village. But his in-laws are not
+            very rich, they are like poor families, so his mother-in-law decides to cook khicadī for him. It is
+            …it is made up of lentils, potato and the like; everything is mixed together, and it is tasty. She
+            serves this dish to him, she puts khicaḍī on one side, and she gives him a bowl full of ghee.
+           
+            तऽ ओ खायेछे नऽ, घी और खिचड़ी दुनु मिला कै, त ओकरा बहुत सुन्दर लागेछे ।
+            
+            When he eats it, by mixing ghee and khicadī together, he absolutely loves it.
+            
+            त अपन सास स पुछैछे जे इ की बनैलियेयऽ, त कहेछे - “बउआ, किछ न बनैलिये, हमरा घर में किच्छो न छले,
+            खिचड़ी बना लेलिये, घी दौ देलों हँ ।” कहलके - “नै, माँ, बड सुन्दर छलै, हमरा बड नीक लागल है । अहाँ के बेटी
+            क आबे यऽ न?” त कहलके - “हाँ, आबे यऽ ।” त कहलके - “ठीक छै ।”
+            
+            He asks his mother-in-law – “What have you cooked for me?” She replies – “Son, I have cooked
+            nothing really, there was nothing left in my house, so I cooked khicaḍī for you, and poured some
+            ghee over it.” He replies – “Not at all, Ma, this is truly delicious, I liked it very much. Does your
+            daughter know the recipe of this dish?” She answers – “Yes, she does.” He responds – “That’s
+            great.”
+            
+            तकरा बाद, ओ रॉत भेलै, फेर ओ अपन...सुबह मे...जहन प्रात भो गैले नऽ, तखन उ अपन आबेत रह, रस्ता में नऽ
+            उ सोचैत रेहे जे अपन घॅर जेबै अपन कन्या के कहबै खिचड़ी बनाबै ल, तऽ “खिचड़ी-खिचड़ी” कहत कहत नऽ
+            ओकरा “खिरचिड़ी-खिरचिड़ी” कहाय छलै यऽ ।
+            
+            Afterwards, the night descends, and then he…in the morning…when it is dawn, he starts his
+            return journey. On the road, he decides he would ask his wife to cook khicaḍī as soon as he
+            reaches home. He begins repeating the name, “khicadī – khicadī,“ so as to commit it to his
+            memory, but, by a slip of tongue, he ends up saying “khirciḍī – khirciḍī” over and over again.
+            
+            तऽ रस्ता में एकटा बनजारन रॅहैछे जे चिड़िया...उर...पकड़ेत रॅहैछै, तऽ ओ बैजते जात रहै “खिरचिड़ी-खिरचिड़ी”,
+            उकरा “खिचड़ी-खिचड़ी” कहैत कहैत “खिरचिड़ी-खिरचिड़ी” कहा जायेत रहैछे । बनजारन जे सुनैछै नऽ, तऽ सब
+            उकरा सुनाय दैछे जे, सऽ कहैछै “खिरचड़ी” यानि “उड़ चिड़ी” उकरा सुनाय देछै । तो बनजारन के बहूते गुस्सा
+            आबेछै जे हम चिड़िया फसाबै छी, आर इ कहैछे “उड़ चिड़ी - उड़ चिड़ी” यानि “सबटा चिड़िया उड़ जो” । त
+            ओकरा...उ बनजारन नऽ पकड़ क खूब पीटैयऽ, जे “खीरचिड़ी” न कही, “आते-जा-फसते-जा” से कही ।
+            
+            So, there is a gypsy woman somewhere on his way, and she is trying to catch…catch birds.
+            Meanwhile, he is uttering “khircidī – khircidī”, as he has confused the pronouciation of “khicadī –
+            khicaḍī” with “khircidī – khircidī”. When the gypsy woman hears his utterance – and she is able
+            to listen fully to his speech – she reckons he is indeed saying “khircidī”, meaning “fly away, bird
+            – fly away, bird!” She is furious with anger. On one hand, she is trying to catch the bird, and, on
+            the other hand, he is telling them – “fly away, bird – fly away, bird!” It implies he wishes “all birds
+            should fly away.” That gypsy woman grabs…him, and smacks the hell out of him. “Do not say
+            “khirciḍī”, rather say “come-on-get-ensnared!”,” she tells him.
+            
+            तहन, आगाँ गैले...फेर ओ...याद कॅ लेलके “आगे-जा-फसते-जा”, उकरा याद एलै जे ओ खिचड़ी के नाम छै “आते-
+            जा-फसते-जा” ।
+            
+            Afterwards, he resumes his journey…again he…he memorizes the expression “come-on-get-
+            ensnared!” He believes that the original name of khicadī is “come-on-get-ensnared!”
+            
+            तऽ फेर आगे जा क ओकरा एकटा आदमी भेटै छ, जेतै शादी होइत रॅहैछै...ओकरा कुछ बिबाद...बिबाद के कारण
+            नऽ...ओकरा लड़का के, मतलब दहेज के कारण, लड़की के बाप के पैइसा ने रॅहैछे, तेक्कै कारण...ओकरा...मतलब,
+            पुलिसवला-सब आब जायछै ओत्त, त उ बाजेत रॅहैछे छ “आते-जा-फसते-जा”, “आते-जा-फसते-जा” । ओत्तै नऽ,
+            लड़की के बाप क बड खराब...अथि...लड़का के बाप क खराब लागेछै जे हमर बेटा एक त जेल जा रहलयऽ, उपर से
+            कहैछ “आते-जा-फसते-जा”...ओत्ते जा क नऽ, दुनु फैमिली-वला पकैड़ के ओकरा खूब पीटैछे, जे कही “एसा-रोज-
+            रोज-हो” ।
+            
+            As he saunters ahead, he comes across a man whose marriage was about to take place…but a
+            conflicting issue had come to fore…because of a feud…a feud concerning his marriage, that is,
+            because of his dowry; the bride’s father did not have enough money to pay for his daughter’s
+            dowry, that is why…to arrest the groom…, that is, a group of policemen arrive on the scene,
+            while he is repeating “come-on-get-ensnared”, “come-on-get-ensnared.” So then, the bride’s
+            father felt very bad…eh…the groom’s father felt miserable that his son is being put in the jail,
+            and this lad is cheekily saying – “come-on-get-ensnared”…So then, both groom’s and bride’s
+            family catch hold of him and spank him savagely. Then they advise him to say – “may-it-
+            happen-everyday.”
+            
+            तो ओ फेर याद कै ले छै “एसा-रोज-रोज-हो” जे हमरा मार ने खाय के यऽ ।
+            
+            So, he thinks, “I do not want to get hit again”, and he memorizes the expression “may-it-happen-
+            everyday.”
+            
+            फेर आगा जाय छे त देखैछे एकटा नव-युवक मर गेल रहै छै । ओकर लाश लौ...क जायेछै । तऽ ओ, मतलब,
+            आदमी सब दुख भौ क, ओकरा जड़बै लॅ जायछै । तऽ ओ कहैत रॅहैछे “एसा-रोज-रोज-हो”, “एसा-रोज-रोज-
+            हो”...ओकर...ओ मुर्दा क रैख दै छै नीचाँ म, कहैछे कि...ओकरा खूब पीटैछे...जे कही “ऐसा-कभी-न-हो”, “ऐसा-
+            कभी-न-हो” । तेक्के बाद फिर, मतलब, उ रटै लागेछै, फेर आगाँ जायेछे ।
+            
+            On his journey ahead, he arrives at place where a youth has died. His corpse is…being carried
+            by his kinsmen who are mourning his death and moving his dead body to the funeral pyre.
+            Meanwhile, this lad is repeating – “may-it-happen-everyday”, “may-it-happen-everyday”…they
+            keep his…his dead body on the floor, and they say…they beat him up very badly…they tell him
+            to repeat “may-this-never-happen”, “may-this-never-happen”. Thereafter, as one may infer, he
+            restarts memorizing this expression by rote, and he resumes his onward journey.
+            
+            तऽ फेर एकटा आदमी नऽ...खेत में काम करैत रॅहैछे, आ ओकरा खूब खेत में उपजल रॅहैछे, तेकरा फेर
+            ओ...ओ मात्र बाजैत रहै जे “ऐसा-कभी-न-हो”, “ऐसा-कभी-न-हो” । तऽ मतलब...उ...जहन उ खेत में काम
+            करत रहै छै, त ओकरा सुनाय दे छै जे उ आदमी बाजय छै जे के...ओ...“ऐसा-कभी-न-हो”...ओ...ओकरा
+            खराब लागछै, त ऊहो फेर उकरा पकैड़ के खूब पीटैछे । और तैकै बाद कहैछे जे कही “ऐसा-रोज-रोज-हो”
+            ।
+            
+            Afterwards, yet another man…is working in the field, and his farm has yielded good harvest. To
+            the farmer as well, all he has to say is “may-this-never-happen”, “may-this-never-happen”. In
+            other words, while he…the farmer is working in the field, he sees that a boy is rambling
+            something, that he…the lad is saying – “may-this-never-happen”…he…the farmer feels
+            miserable on hearing this, and he too catches hold of him and beats him pitilessly. And
+            afterwards he counsels the lad to say “may-this-happen-everyday”.
+            
+            एन्हैते करैत करैत ओ घॅर पहुँच जायेछे, त राइत भो जायेछे, ओ सुइत रॅहैछे । सुतैछे नऽ जे उ सबटा भूल जायेछे
+            । त ओ बाद में पुछैछे…सोचैछे...हमरा सास की कहनै छलै नाम, हमरा रास्ता में त बहूते कीछ भैल, पर कीछ
+            हमरा न पता य, त अपन कन्या क कहैछे - “जे तोहर मॉय जे बनैने छलो, वैह बनौ ।”
+            
+            In this way, he eventually reaches his home, and since it is already night, so he goes to bed.
+            When he is asleep, he forgets everything that had happened in the day. Then, he asks…he
+            thinks…later on – “What was the name of the dish my mother-in-law had mentioned to me? So 
+            many things happened on the way that I can hardly remember anything.” So, he says to his wife
+            – “Whatever your mother had cooked, cook that for me.”
+            
+            त ओकर कन्या के पतै न रहै जे मॉय हमर की बनैने छलै । तो उ सोचैय, त ओकरा नऽ, अपन कन्या के जतै जे
+            ओकरा रास्ता में लोग-सब मारनै रहै, से वेहे बदला अपन कन्या स लॅ लिये, खूब मारेयऽ । तखनो ओकरा नाम ने
+            याद आबेछे जे हमरा कि कहने छलै ।
+            
+            But his wife does not know what her mother had cooked for him. This angers him; for all the
+            blows he had suffered on his way, he…he vents his frustration by mercilessly beating his wife.
+            Still, he is unable to remember what his mother-in-law had mentioned to him.
+            
+            त पड़ोस में एकड़ा एकटा आदमी देखलके न औरत, जे बड मारैछे, तऽ ओकरा दया लागले, त ओ एलै, त उ आबेछै
+            नऽ, कि कहेछे - “मॉय गे मॉय, ऐय औरत के त खिचड़ी बना देलकै”...त...ओ...मतलब...ओकरा याद आबैछे - “जा,
+            हमर सास कहलेछेलै खिचड़ी बनबैल”, त कहैछे - “याह त हम कहै छलियै तखन स बनबै ल ।”
+            
+            Then, among the neighbours who are watching him beat his wife brutally, a man…no…a
+            woman is kind to her, she comes to her rescue, and she arrives in their home and says – “Oh
+            my god, you have made a khicadī  out of her”…then…that is when…he…he remembers, “There
+            you go, my mother-in-law had said that we should cook khicadī!” then he replies – “That is
+            precisely what I have been asking her to cook.”
+            ...............
+            
+            “हो गया ? जाओ, जाके खिचड़ी बना के खाना ।”
+            
+            “Is that all? Go on, get back, cook khicaḍī, and eat.”
+            </p>
+      </body>
+  </text>
+</TEI>

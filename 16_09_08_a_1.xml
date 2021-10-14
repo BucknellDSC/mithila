@@ -21,7 +21,11 @@
                <person xml:id="kumari">
                   <persName>Preeti Kumari</persName>
                </person>
+               <person xml:id="coralynn">
+                  <persName>Coralynn Davis</persName>
+               </person>
             </listPerson>
+           
          </particDesc>
       </profileDesc>
    </teiHeader>
@@ -36,24 +40,25 @@
                <date when-iso="2016-09-08"/> Maithili Folklore 1 Documented by <persName>Dr. Coralynn V. Davis</persName>
                Line-by-line Transcription and Translation by Pranav Prakash </head>
             <div2 type="sp1">
-               <sp>
+               <sp who="#kumari">
                   <p>There was a...a…woman. She..she had planted a <objectName>cucumber plant </objectName>, you know. Then,
                      another woman stole her <objectName>cucumber</objectName> and ate…ate it.</p>
-                  <p>Then, she, who had planted cucumber, said, “Whoever ate my <objectName>cucumber</objectName>, she will
+                  <p>Then, she, who had planted <objectName>cucumber</objectName>, said, “Whoever ate my <objectName>cucumber</objectName>, she will
                      give birth to a deḍhabitnā (one and a half hand-span long dwarf) child.” That
                      woman, after few days…</p>
                </sp>
             </div2>
             <div2 type="sp2">
-               <sp>
+               <sp who="#coralynn">
                   <p>…What did she have? <lb/>…A son, that is, she will have a son.</p>
                </sp>
             </div2>
             <div2 type="sp3">
-               <p>…a deḍhabitnā…a deḍhabitnā son. Then…she…afterwards that woman who had eaten the
+               <sp who="#kumari">
+                  <p>…a deḍhabitnā…a deḍhabitnā son. Then…she…afterwards that woman who had eaten the
                   cucumber, she became pregnant, and she had a deḍhabitnā child.</p>
                <p>Now that she had a deḍhabitnā son, she was very sad. His worked on a farm, he made
-                  dung cakes, and he worked in the fields. So, Deḍhabitnā brought lunch for his
+                  dung cakes, and he worked in the fields. So, <persName type="human">Deḍhabitnā</persName> brought lunch for his
                   father. He brought food for him. As soon as he reached the farm with his food, the
                   ox began defecating.</p>
                <p>Then…he…then…he…his father said to him, “Deḍhabitnā, you plough the field, while I
@@ -112,21 +117,23 @@
                   is not possible.”</p>
                <p>But their account was indeed true. He returned home, Deḍhabitnā had married the
                   king’s daughter. The king had given all of his property to Deḍhabitnā. And he even
-                  ascended the king’s throne; everything now belonged to Deḍhabitnā. </p>
+                  ascended the king’s throne; everything now belonged to Deḍhabitnā. </p></sp>
             </div2>
             <div2 type="sp3">
-               <p>What percent did you understand?</p>
-               <p>I understood about thirty percent of that…</p>
+               <sp who="#coralynn">
+                  <p>What percent did you understand?</p>
+               <p>I understood about thirty percent of that…</p></sp>
             </div2>
             <div2 type="sp4">
-               <p>…This…this story…what do you learn from this story…what does it teach you?</p>
+              <sp who="#kumari">
+                 <p>…This…this story…what do you learn from this story…what does it teach you?</p>
                <p>…The moral of the story is that the worth of a person…is…is not determined by
                   whether they are small or big. That is, no one is weak when they have courage and
                   when they are brave. As long as one is courageous, one will flourish in life, they
                   will rise high in life. Put differently, one’s face, appearance, height, body –
                   these things do not tell us if that person is weak or careless. </p>
                <p>As long as one is courageous, one is full of strength, they can do anything in the
-                  world. One should, however, be smart-minded.</p>
+                  world. One should, however, be smart-minded.</p></sp>
             </div2>
 
          </div1>

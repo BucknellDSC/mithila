@@ -3,7 +3,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Title</title>
@@ -11,82 +11,133 @@
          <publicationStmt>
             <p>Publication Information</p>
          </publicationStmt>
-         <sourceDesc><p></p></sourceDesc>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
       </fileDesc>
-     <profileDesc>
-        <particDesc>
-           <listPerson>
-              <person xml:id="kumari">
-                 <persName>Preeti Kumari</persName>
-              </person>
-           </listPerson>
-        </particDesc>
-     </profileDesc>
-  </teiHeader>
-  <text>
+      <profileDesc>
+         <particDesc>
+            <listPerson>
+               <person xml:id="kumari">
+                  <persName>Preeti Kumari</persName>
+               </person>
+               <person xml:id="coralynn">
+                  <persName>Coralynn Davis</persName>
+               </person>
+               <person xml:id="translator"></person>     
+            </listPerson>
+           
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
       <body>
-<div1 type="story">         
-   <head>
-            <title>Dedh Bitna</title>
-            <persName type="storyteller" ref="#kumari">Preeti Kumari</persName>
-            <persName type="interviewer">Coralynn Davis</persName>
-            <placeName>MAI Madhubani</placeName>
-            <date when-iso="2016-09-08"/>
-            Maithili Folklore 1
-            Documented by Dr. Coralynn V. Davis
-            Line-by-line Transcription and Translation 
-            by Pranav Prakash
-            
-         </head>
-   <div2 type="sp1">
-      <sp>
-               <p>There was a...a…woman. She..she had planted a cucumber plant, you know. Then, another woman stole her cucumber and ate…ate it.</p>
-            <p>Then, she, who had planted cucumber, said, “Whoever ate my cucumber, she will give birth to a deḍhabitnā (one and a half hand-span long dwarf) child.” That woman, after few days…</p>
-            </sp>
-   </div2>
-   <div2 type="sp2">
-       <sp>
-               <p>…What did she have?
-                  <lb/>…A son, that is, she will have a son.</p>
-            </sp>
-   </div2>
-   <div2 type="sp3">         
-         <p>…a deḍhabitnā…a deḍhabitnā son. Then…she…afterwards that woman who had eaten the cucumber, she became pregnant, and she had a deḍhabitnā child.</p>
-         <p>Now that she had a deḍhabitnā son, she was very sad. His worked on a farm, he made dung cakes, and he worked in the fields. So, Deḍhabitnā brought lunch for his father. He brought food for him. As soon as he reached the farm with his food, the ox began defecating.</p>
-         <p>Then…he…then…he…his father said to him, “Deḍhabitnā, you plough the field, while I eat my lunch….After eating my lunch…I will rest for a while at our home, and later return to the field.”</p>
-         <p>Meanwhile, the ox that was defecating…its dung…was still excreting, and Deḍhabitnā sank in its dung. All of his oxen broke loose and ran away. </p>
-         <p>They plundered everything…that is…they ate all the plants and trees owned by the king. They ate everything, and they pillaged the royal stock of hay and other supplies. The two oxen had run away. </p>
-         <p>Now a women came to collect the dung from their farmland. As…she…picked the dung – that which their ox had excreted – Deḍhabitnā walked out of it.</p>
-         <p>Then…then…she said to Deḍhabitnā, “O Deḍhbitnā, you are stuck here, and they have taken your father and cattle away, and your oxen have badly ruined the property of the king.”</p>
-         <p>“They have taken your mother and father and all of your ploughshares, as well as your two oxen, and they have tied them together.”</p>
-         <p>This very much worried Deḍhbitnā, and as he continued to walk on the street, he wondered what he should do now. When he looked around, there were no oxen, nor could he find his father at home, he was left alone and helpless.</p>
-         <p>As he strolled down a path, he came across a stick who said to him, “Where are you headed, O brother Deḍhabitnā, why are you rushing along the street?”</p>
-         <p>He replied, “See what they have done, they have caught my father…” It said, “Let’s go. I will come along with you.”</p>
-         <p>Then he met water on the way, and it too asked him, “Hey, where are going, O Deḍhabitnā brother?” He replied, “See what they have done to me, they have caught my mother and father…” It responded, “O, I see, let’s go. Let me come along with you!”</p>
-         <p>He came across a wasp on the street, and the wasp too said, “Let’s go. I too will accompany you. How could they have gotten hold of your parents and lashed them together?”</p>
-         <p>Then what could he possibly do, that helpless wretch, he went to meet the king. He spoke to the king, “Please release my parents.”</p>
-         <p>The king replied, “Hey Deḍhabitnā, whatever damage your ox…oxen has caused to my property, repay them, only then I will free your father.”</p>
-         <p>Deḍhabitnā objected, “How can I possibly repay that?” </p>
-         <p>The king replied, “Well, then, I will not free your father. What will you do…do whatever you can.”</p>
-         <p>Then the stick gave the king a good beating. The poor king was helpless. Afterward, the water flooded…flooded the residence of the king, and there was water everywhere.</p>
-         <p>And the king had a daughter. And the wasp stung the king badly.</p>
-         <p>The king, completely baffled, said to him, “O Deḍhabitnā, I am at your feet, I earnestly beg you to leave me.” </p>
-         <p>To which he responded, “Okay, I will free you, but first free my oxen and my father.” </p>
-         <p>Afterward…then…the king gave him all of his wealth, and he arranged for his daughter to marry Deḍhabitnā. And he had Deḍhabitnā sit on his elephant so that he, the groom, might ride back to his home. While Deḍhabitnā was headed for his home, others went to his mother and told her, “Hey, your son, Deḍhabitnā, has gotten married, he has married the king’s daughter.”</p>
-         <p>Then his mother – what did she say to the girls was, “Shame on you all, you girls! What are you saying? Go away from here! Who would marry my one-and-a-half hand-span long son? Leave me alone. Don’t play this prank with me.” Still, everyone kept on teasing her, she retorted, “No, you all are lying, this…is…this is not possible.”</p>
-         <p>But their account was indeed true. He returned home, Deḍhabitnā had married the king’s daughter. The king had given all of his property to Deḍhabitnā. And he even ascended the king’s throne; everything now belonged to Deḍhabitnā. </p>
-   </div2>
-   <div2 type="sp3">
-         <p>What percent did you understand?</p>
-         <p>I understood about thirty percent of that…</p>
-   </div2>
-   <div2 type="sp4">
-         <p>…This…this story…what do you learn from this story…what does it teach you?</p>
-         <p>…The moral of the story is that the worth of a person…is…is not determined by whether they are small or big. That is, no one is weak when they have courage and when they are brave. As long as one is courageous, one will flourish in life, they will rise high in life. Put differently, one’s face, appearance, height, body – these things do not tell us if that person is weak or careless. </p>
-         <p>As long as one is courageous, one is full of strength, they can do anything in the world. One should, however, be smart-minded.</p>
-   </div2>
-                  
-</div1>      
+         <div1 type="story">
+            <head>
+               <title>Dedh Bitna</title>
+               <persName type="storyteller" ref="#kumari">Preeti Kumari</persName>
+               <persName type="interviewer">Coralynn Davis</persName>
+               <placeName>MAI Madhubani</placeName>
+               <date when-iso="2016-09-08"/> Maithili Folklore 1 Documented by <persName>Dr. Coralynn V. Davis</persName>
+               Line-by-line Transcription and Translation by Pranav Prakash </head>
+            <div2 type="sp1">
+               <sp who="#kumari">
+                  <p>There was a...a…woman. She..she had planted a <objectName>cucumber plant </objectName>, you know. Then,
+                     another woman stole her <objectName>cucumber</objectName> and ate…ate it.</p>
+                  <p>Then, she, who had planted <objectName>cucumber</objectName>, said, “Whoever ate my <objectName>cucumber</objectName>, she will
+                     give birth to a <persName type="human">deḍhabitnā</persName> (one and a half hand-span long dwarf) child.” That
+                     woman, after few days…</p>
+               </sp>
+            </div2>
+            <div2 type="sp2">
+               <sp who="#coralynn">
+                  <p>…What did she have? <lb/>…A son, that is, she will have a son.</p>
+               </sp>
+            </div2>
+            <div2 type="sp3">
+               <sp who="#kumari">
+                  <p>…a <persName type="person">deḍhabitnā</persName>…a <persName type="person">deḍhabitnā</persName> son. Then…she…afterwards that woman who had eaten the
+                  <objectName>cucumber</objectName>, she became pregnant, and she had a deḍhabitnā child.</p>
+               <p>Now that she had a deḍhabitnā son, she was very sad. His worked on a farm, he made
+                  dung cakes, and he worked in the fields. So, <persName type="human">Deḍhabitnā</persName> brought <objectName type="food">lunch</objectName> for his
+                  father. He brought <objectName>food</objectName> for him. As soon as he reached the <placeName>farm</placeName> with his food, the
+                  <objectName type="animal">ox</objectName> began defecating.</p>
+               <p>Then…he…then…he…his father said to him, “Deḍhabitnā, you plough the <placeName>field</placeName>, while I
+                  eat my lunch….After eating my lunch…I will rest for a while at our <placeName>home</placeName>, and later
+                  return to the <placeName>field</placeName>.”</p>
+               <p>Meanwhile, the <objectName type="animal">ox</objectName> that was defecating…its <objectName>dung</objectName>…was still excreting, and Deḍhabitnā
+                  sank in its dung. All of his <objectName type="animal">oxen</objectName> broke loose and ran away. </p>
+               <p>They plundered everything…that is…they ate all the <objectName>plants</objectName> and <objectName>trees</objectName> owned by the
+                  king. They ate everything, and they pillaged the royal stock of <objectName>hay</objectName> and other
+                  supplies. The two <objectName type="animal">oxen</objectName> had run away. </p>
+               <p>Now a women came to collect the <objectName>dung</objectName> from their <placeName>farmland</placeName>. As…she…picked the dung –
+                  that which their <objectName type="animals">ox</objectName> had excreted – <persName type="human">Deḍhabitnā</persName> walked out of it.</p>
+               <p>Then…then…she said to <persName type="human">Deḍhabitnā</persName>, “O <persName type="human">Deḍhbitnā</persName>, you are stuck here, and they have
+                  taken your father and cattle away, and your <objectName type="animal">oxen</objectName> have badly ruined the property of
+                  the king.”</p>
+               <p>“They have taken your mother and father and all of your ploughshares, as well as
+                  your two oxen, and they have tied them together.”</p>
+               <p>This very much worried <persName type="human">Deḍhbitnā</persName>, and as he continued to walk on the street, he
+                  wondered what he should do now. When he looked around, there were no <objectName type="animal">oxen</objectName>, nor
+                  could he find his father at home, he was left alone and helpless.</p>
+               <p>As he strolled down a path, he came across a stick who said to him, “Where are you
+                  headed, O brother <persName type="human">Deḍhabitnā</persName>, why are you rushing along the street?”</p>
+               <p>He replied, “See what they have done, they have caught my father…” It said, “Let’s
+                  go. I will come along with you.”</p>
+               <p>Then he met water on the way, and it too asked him, “Hey, where are going, O
+                  <persName type="human">Deḍhabitnā</persName> brother?” He replied, “See what they have done to me, they have caught
+                  my mother and father…” It responded, “O, I see, let’s go. Let me come along with
+                  you!”</p>
+               <p>He came across a <objectName type="animal">wasp</objectName> on the <placeName>street</placeName>, and the wasp too said, “Let’s go. I too will
+                  accompany you. How could they have gotten hold of your parents and lashed them
+                  together?”</p>
+               <p>Then what could he possibly do, that helpless wretch, he went to meet the king. He
+                  spoke to the king, “Please release my parents.”</p>
+               <p>The king replied, “Hey <persName type="human">Deḍhabitnā</persName>, whatever damage your ox…oxen has caused to my
+                  property, repay them, only then I will free your father.”</p>
+               <p><persName type="human">Deḍhabitnā</persName> objected, “How can I possibly repay that?” </p>
+               <p>The king replied, “Well, then, I will not free your father. What will you do…do
+                  whatever you can.”</p>
+               <p>Then the stick gave the king a good beating. The poor king was helpless.
+                  Afterward, the water flooded…flooded the <placeName>residence</placeName> of the king, and there was
+                  water everywhere.</p>
+               <p>And the king had a daughter. And the <objectName type="animal">wasp</objectName> stung the king badly.</p>
+               <p>The king, completely baffled, said to him, “O <persName type="human">Deḍhabitnā</persName>, I am at your feet, I
+                  earnestly beg you to leave me.” </p>
+               <p>To which he responded, “Okay, I will free you, but first free my <objectName type="animal">oxen</objectName> and my
+                  father.” </p>
+               <p>Afterward…then…the king gave him all of his <objectName>wealth</objectName>, and he arranged for his
+                  daughter to marry <persName type="human">Deḍhabitnā</persName>. And he had <persName type="human">Deḍhabitnā</persName> sit on his <objectName type="animal">elephant</objectName> so that
+                  he, the groom, might ride back to his home. While <persName type="human">Deḍhabitnā</persName> was headed for his
+                  <placeName>home</placeName>, others went to his mother and told her, “Hey, your son, <persName type="human">Deḍhabitnā</persName>, has
+                  gotten married, he has married the king’s daughter.”</p>
+               <p>Then his mother – what did she say to the girls was, “Shame on you all, you girls!
+                  What are you saying? Go away from here! Who would marry my one-and-a-half
+                  hand-span long son? Leave me alone. Don’t play this prank with me.” Still,
+                  everyone kept on teasing her, she retorted, “No, you all are lying, this…is…this
+                  is not possible.”</p>
+               <p>But their account was indeed true. He returned <placeName>home</placeName>, <persName type="human">Deḍhabitnā</persName> had married the
+                  king’s daughter. The king had given all of his <objectName>property</objectName> to <persName type="human">Deḍhabitnā</persName>. And he even
+                  ascended the king’s throne; everything now belonged to <persName type="human">Deḍhabitnā</persName>. </p></sp>
+            </div2>
+            <div2 type="sp3">
+               <sp who="#coralynn">
+                  <p>What percent did you understand?</p>
+               <p>I understood about thirty percent of that…</p></sp>
+            </div2>
+            <div2 type="sp4">
+              <sp who="#kumari">
+                 <p>…This…this story…what do you learn from this story…what does it teach you?</p>
+               <p>…The moral of the story is that the worth of a person…is…is not determined by
+                  whether they are small or big. That is, no one is weak when they have courage and
+                  when they are brave. As long as one is courageous, one will flourish in life, they
+                  will rise high in life. Put differently, one’s face, appearance, height, body –
+                  these things do not tell us if that person is weak or careless. </p>
+               <p>As long as one is courageous, one is full of strength, they can do anything in the
+                  world. One should, however, be smart-minded.</p></sp>
+            </div2>
+
+         </div1>
       </body>
-  </text>
+   </text>
 </TEI>

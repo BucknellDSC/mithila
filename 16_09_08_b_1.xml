@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p />
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <particDesc>
+            <listPerson>
+               <person xml:id="kumari">
+                  <persName>Preeti Kumari</persName>
+               </person>
+               <person xml:id="coralynn">
+                  <persName>Coralynn Davis</persName>
+               </person>
+               <person xml:id="translator" />
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>There was a Brahmin. He used to perform his prayers and rituals, and he took care of his cow. Whatsoever milk was obtained from the cow, it was consumed by his family. He had a son who
+            would get to drink her milk. But he was stricken by poverty, so he was very sad.</p>
+         <p>Regarding the selling of the milk of the cow, he would argue, “I am a Brahmin, I cannot pursue any other profession of work.”</p>
+         <p>Meanwhile, his son was growing up. So, his wife who was preparing some chapatti with salt so that he may eat it after he finished his prayers – he was offering his daily prayers to god – expressed her concerns to him, “Eat this meal, and go sell the cow’s milk. I have spent my life in tattered clothes, but our son is growing up, you should send him to school, don’t you want to do something for him?”</p>
+         <p>A deeply hurtful pain gripped his body, as he agonized over this issue, “How can I sell the cow’s milk?” He argued with himself, “Cows and mothers are alike, how can I sell their milk?”</p>
+         <p>And his wife insisted, “How long must I live in tattered clothes? Our son is growing up. How long should we suffer in poverty? No more, we can’t go on like this. If you bring money by selling milk, then much can happen for us.”</p>
+         <p>She gave him some milk and said, “Go out, sell them.” Poor man, he went out to sell some milk. As he went out to sell the milk, he met on the road…he noticed on the road, there was a snake-hole on the wayside. An aged nāg (cobra snake) was lying inside, he was so famished that his body had dried out in the hole. Unwilling that the brahmin was to sell off the cow’s milk, he poured it in the hole. The starving snake that was lying in there drank the milk, and he became a satiated soul, and he spat a gemstone for the Brahmin. After taking the gemstone, he returned to his home.</p>
+         <p>When he brought back the gem, his wife spoke to him, “That milk, if you’d care to notice, it’s after I gave that milk to you that so many things in our house have turned pleasant and pretty in just one day.”</p>
+         <p>On the next day, he brought the gem to his house. His wife asked, “Did you sell the milk?” He replied, “Yes, here, you see, this is how much the milk did cost. I know, this money is not enough, but I will sell more milk and will bring more money, afterwards I will get more stuff for you.”</p>
+         <p>She replied, “That’s fine!” He went out the other day as well. Every day he went out, and he poured it in the snake-hole – poured milk in the snake-hole. That snake gradually revived and regained his health. That old snake who stayed in the hole, he began living again. And he would spit a gemstone to the brahmin, in return for his snake [milk?]. Finally, that snake became very healthy and very fit.</p>
+         <p>[Have you all seen yantra paintings anywhere?
+            <lb/>What do you mean?
+            <lb/>Yantra…?
+            <lb/>No, they are after “story”. 
+            <lb/>…have they seen it anywhere in Madhubani, that’s what I wanted to know…]
+         </p>
+         <p>Then he…that is…went away…then he…when he received many gems. When many gems were given to him, say, for instance, after two days, four days…ten days, when he owned many gems, then he brought many things in his home, they accumulated bags full of stuff – toys for children, fish – we abound in fishes from old times, plenty of fishes – fish, and he brought all kinds of colorful stuff. He was practically unknown in the village. Now, however, he would have tens of visitors, they would arrive at his door, and plead, “My daughter is about to get married, please loan some money to me.” Other too came to him, “We want something.” He became very prosperous and affluent. But he still did the same thing, he offered milk to the nāg. His pampering had spoilt the snake. One day he went out…somewhere to meet his relative. He spoke to his son…his wife, “I am going away, you request our dear son to give milk to the snake.”</p>
+         <p>His wife had become so haughty that she replied, “What for, now why should we give him milk everyday?” 
+            “There is a grove near that place, tell him to pour milk there itself.”
+            “Of course not, I am not letting my son serve milk to snakes and moles. You give them drink. My son would not follow your suit.”
+            Then he replied, “I have already told you that you will hand over the milk to him.”
+         </p>
+         <p>He left for his village, and his wife got the cow milked, and she gave the milk to his son, “My dear son, go out, your father has asked you to serve milk to snakes and moles, go, pour this for them.”</p>
+         <p>That poor Brahmin, however, was very reluctant to go away, he still had to leave.</p>
+         <p>Meanwhile, when his boy went to give the milk, as soon as he left, he hung the milk-container on a tree, and he started playing with other children, who were all shepherds, he began playing with them.</p>
+         <p>That nāg who used to get milk every day, he was…then it was time for his meal, he was thirsty. He went out time and again, he returned to his grove, he did not notice milk anywhere, he came out, and went back to his grove again.</p>
+         <p>That boy remembered, “I was supposed to give milk, pour it in the grove. My father had asked me to pour it, pour the milk. I should get going, I should be at the grove.” When he was about to drop milk in the grove, he saw a snake there.</p>
+         <p>How was the boy to know that his father had been offering milk to this snake? On seeing the snake, the boy brought a stick, and he whipped a blow at him. He whipped a blow at the snake, the snake was hit on the head. As an instinctive reflex, the snake bit the boy’s leg. He bit the boy’s leg, the boy passed away.</p>
+         <p>Afterwards when he…the brahmin arrived at home, his wife said to him, “To which snakes and moles had you offered to serve milk that my son went out yesterday, and he has not yet returned?” He was anxious.</p>
+         <p>He said, “Let us go, and see.”</p>
+         <p>He went there, and he saw his son fallen there. He pleaded to the nāg with folded hands.</p>
+         <p>Then the nāg replied to him, to the brahmin,</p>
+            <lg><l>“Only a friend can ever break your heart, how one craves for the milk?</l>
+            <l>You mourn the death of your son, I am wounded in my head.”</l></lg>
+         <p>We are not friends anymore. Your kindness spoilt me, you gave me life, you served me milk, and I gave you gemstones in return, and you became haughty. You were so full of pride. You dispatched milk through your son. Your son beat me up.</p>
+         <p>Now were you to offer me milk, were you to come to me with milk, I will come out, I will feel the pain in my head, and I will bite you. Were you to give milk to me, you too would think, “I am serving milk to a nāg who killed my son.”</p>
+         <p>That’s why, once animosity develops in a relationship, once should avoid being friends with each other. </p>
+            
+            <lg><l>“Only a friend can ever break your heart, how one craves for the milk?</l>
+            <l>You mourn the death of your son, I am wounded in my head.”</l></lg>
+         <p>As much hurt I am by the wound caused by your son, you are to the same degree aggrieved by the death of your son. Your heart is hurt, my head is wounded. Therefore, we no more share friendly relationship with each other.</p>
+         <p>And, nowadays Pakistan is doing the same to all of us.</p>
+         
+      </body>
+   </text>
+</TEI>

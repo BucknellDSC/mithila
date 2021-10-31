@@ -96,11 +96,19 @@
             <lb/>No, they are after “story”. 
             <lb/>…have they seen it anywhere in <placeName>Madhubani</placeName>, that’s what I wanted to know…]
          </p>
-         <p>Then he…that is…went away…then he…when he received many gems. When many gems were given to him, say, for instance, after two days, four days…ten days, when he owned many gems, then he brought many things in his home, they accumulated bags full of stuff – toys for children, fish – we abound in fishes from old times, plenty of fishes – fish, and he brought all kinds of colorful stuff. He was practically unknown in the village. Now, however, he would have tens of visitors, they would arrive at his door, and plead, “My daughter is about to get married, please loan some money to me.” Other too came to him, “We want something.” He became very prosperous and affluent. But he still did the same thing, he offered milk to the nāg. His pampering had spoilt the snake. One day he went out…somewhere to meet his relative. He spoke to his son…his wife, “I am going away, you request our dear son to give milk to the snake.”</p>
-         <p>His wife had become so haughty that she replied, “What for, now why should we give him milk everyday?” 
-            “There is a grove near that place, tell him to pour milk there itself.”
-            “Of course not, I am not letting my son serve milk to snakes and moles. You give them drink. My son would not follow your suit.”
-            Then he replied, “I have already told you that you will hand over the milk to him.”
+               </sp>
+            </div2>
+            <div2 type="sp1">
+               <sp who="#jha">
+         <p>Then he…that is…went away…then he…when he received many <objectName>gems</objectName>. When many <objectName>gems</objectName> were given to him, say, for instance, after two days, four days…ten days, when he owned many <objectName>gems</objectName>, then he brought many things in his home, they accumulated <objectName>bags</objectName> full of stuff – <objectName>toys</objectName> for <objectName type="human">children</objectName>, <objectName type="animal">fish</objectName> – we abound in <objectName type="animal">fishes</objectName> from old times, plenty of <objectName type="animal">fishes</objectName> – <objectName type="animal">fish</objectName>, and he brought all kinds of colorful stuff. He was practically unknown in the <placeName>village</placeName>. Now, however, he would have tens of <objectName type="human">visitors</objectName>, they would arrive at his <objectName>door</objectName>, and plead, “My <objectName type="human">daughter</objectName> is about to get married, please loan some <objectName>money</objectName> to me.” Other too came to him, “We want something.” He became very prosperous and affluent. But he still did the same thing, he offered <objectName>milk</objectName> to the <persName type="snake">nāg</persName>. His pampering had spoilt the <objectName type="animal">snake</objectName>. One day he went out…somewhere to meet his relative. He spoke to his <objectName type="relation">son</objectName>…his <objectName type="relation">wife</objectName>, “I am going away, you request our dear <objectName type="relation">son</objectName> to give <objectName type="food">milk</objectName> to the <objectName type="animal">snake</objectName>.”</p>
+               </sp>
+            </div2>
+            <div2 type="sp1">
+               <sp who="#jha">
+         <p>His <objectName type="relation">wife</objectName> had become so haughty that she replied, “What for, now why should we give him <objectName type="food">milk</objectName> everyday?” 
+            “There is a <placeName>grove</placeName> near that place, tell him to pour <objectName type="food">milk</objectName> there itself.”
+            “Of course not, I am not letting my <objectName type="relation">son</objectName> serve <objectName type="food">milk</objectName> to <objectName type="animals">snakes</objectName> and <objectName type="animal">moles</objectName>. You give them drink. My <objectName type="relation">son</objectName> would not follow your suit.”
+            Then he replied, “I have already told you that you will hand over the <objectName type="food">milk</objectName> to him.”
          </p>
                </sp>
             </div2>

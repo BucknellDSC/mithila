@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <particDesc>
+           <listPerson>
+              <person xml:id="jha">
+                 <persName>Vineeta Jha</persName>
+              </person>
+              <person xml:id="coralynn">
+                 <persName>Coralynn Davis</persName>
+              </person>
+              <person xml:id="translator" />
+              <person xml:id="outsidelady">
+              </person>
+           </listPerson>
+           
+        </particDesc>
+     </profileDesc>
+  </teiHeader>
+   <text>
+      <body>
+         <div1 type="story">
+            <head>
+               <title>Dedh Bitna</title>
+               <persName type="storyteller" ref="#jha">Vineeta Jha</persName>
+               <persName type="interviewer">Coralynn Davis</persName>
+               <placeName>Vineeta's home</placeName>
+               <date when-iso="2016-09-08"/> Maithili Folklore 1 Documented by <persName>Dr. Coralynn V. Davis</persName>
+               Line-by-line Transcription and Translation by Pranav Prakash </head>
+            <div2 type="sp1">
+               <sp who="#jha">
+                  <p>एकटा प'रवार म+, एकटा बे/टयो-ला बहू
+                     
+                     त रहेछे तप8या जे एकटा बे/टयो ने होयेछे । आर बेट= पर
+                     
+                     . . . सास कॅ अपन बेट= बहु
+                     
+                     त सCुदर लागेछे, और पतू ोहुके बेट= बहू
+                     
+                     त खराब लागेछे ।
+                     
+                     In a family, for the sake of having a child – even if one were to have a girl – a family has
+                     to go through a lot. One needs to do a lot of penance for bringing up even a girl child. With regard to daughters...a mother-in-law immensely adores her pretty daughter, but she
+                     intensely abhors her daughter-in-law.
+                     
+                     ओए पर छे . . . जेहमरा सबके जीवछ नद= छै । औतऽ /हनका घर म+ बे...बाल-बMचा ने होयेछलन
+                     रहे त पतू ोहुके कमला-जी के पजू ा करवैछOथन - जीवछ मैया के - तऽ जीवछ मैया आशीवाRद देय छOथन
+                     । तऽ ऊ गभRवती होयेछे । तो ओकरा बMचा होयेछे ।
+                     
+                     In that context...so, we have a river called Jīvach. There, in their house...she was unable
+                     to give birth to a child, so the mother-in-law made her daughter-in-law worship the Goddess
+                     Kamalā – the goddess of the River Jīvach – then, Mother Jīvach gave a blessing to her. She became pregnant. Then a child was born to her.
+                     
+                     ओकरा घर म+ एकटा गाय पालल रहे । ओय गाय-यो कॅ बUछया होयेछे । एकरो बMचा होयेछे आ
+                     गाय-ओ कॅ बUछया होयेछे । धीरे-धीरे ओ बMचा के पैग होयेछे ।
+                     
+                     A cow was being tended in her house. She too gave birth to a female calf. The
+                     daughter-in-law had a girl child, the cow too had a female calf. That child was gradually
+                     growing up.
+                     
+                     ओकरा खाय ल देयछे । गभRवती रहेछे त फल-फूल-सब । खबू ओकरा मान-दान होयेछे । ओकरा
+                     घर म+ बेट= होयेछे । त ओकरा...ओकर दाद= ओकरा खबू सCुदर सामान आदर करेछे - ओय बMचा के ।
+                     रखेछे दादा दाद=, खबू घमू ाबे-Xफराबेछे । ओय गाय के बाछY होयेछे, त ओकरो खाय ल भेटैछे ।
+                     
+                     They fed her. Since she was pregnant, they gave her fruits and delicacies. They
+                     respected her, and they took good care of her. A girl child was born in her home. To her...her
+                     grandmother treated her – the girl child – with much affection and respect. Their grandfather
+                     and grandmother took care of her. They traveled and played together a lot. That cow who gave
+                     birth to a female calf, her calf too was fed properly.
+                     
+                     जहन उ पगै भो जायेछे, घमू छै े - खेलैछे, पैग होयेछे, त ओकर बाबा कहेछे Xक एकरा आब...आब
+                     [बबाह के लेल बर खोजल जाय । तो ओकरा [बबाह होयेछे । [बबाह होयेछे । [बबाह होयेछे, दरुांगमन
+                     होयेछे, त ओकरा उ बUछया दॅ देल जायेछे । ओकरा संगे जे गाय के बMचा भेल रहे, उ...पैग बाछY भो
+                     जायेछे, उहो ओकरा दो देल जायेछे...जे “इ हमर पोती भेल, तओ ओकरा बाछY भेल, उ पोती के हम देब ।”
+                     दॅ देयछे ।
+                     
+                     When she grew older, she used to roam around and play some sports. When she was grown, then her grandfather said that now...now they should search a groom for her marriage. Then she was wed. Her wedding took place. Her wedding ceremony was completed, she
+                     was given to her husband, and she was gifted with a female calf. This calf was the one who was
+                     born at the same time when she was herself born, that calf...that calf too was grown up, and
+                     her grandfather gifted the calf to her...on the pretext that ”when my granddaughter was born,
+                     my cow too had a calf, and I will give the calf to my granddaughter.” He gave the calf to her.
+                     
+                     सासरु जायेछे, खबू सCुदर, खशु ी रहेछे । जखन खशु ी से रहे चलछै े, ओ लड़कa रOधया गभवR ती
+                     होयेछे । ओ जे गभRवती होयेछे, आ बUछया, सेहो ओकर रहेछे गभRवती ।
+                     
+                     She went to the home of her in-laws. It was all nice and good, and everyone was glad.
+                     When everything was going on well, then that girl, Rādhiyā, became pregnant. When she
+                     became pregnant, her calf, she too became pregnant.
+                     
+                     तऽ ओकरा बेट= होयेछे। त ओकर सास मँहु घमु ा के चल जायछे, देख कॅ, “एह, बेट=-ये भेलै । एह
+                     बेट=-ये छे ।”
+                     
+                     Then a girl was born to her. Her mother-in-law turned her face away and she walked off.
+                     After seeing her new-born girl, she said, “Alas, a girl is after all born. What a shame, this child
+                     is girl!”
+                     
+                     त कहेछे दोसर, “है, एना Xकया करैछY ?”
+                     
+                     Others responded to her, “Hey, why are you behaving in this way?”
+                     
+                     पड़ोस के लोग, “बेट= छै त कa छै, सCुदर बdड-य, रहॅ /दयौ, अपन करम भाग छै ।” बेट= कॅ देख
+                     कॅ चल जायेछे ।
+                     
+                     Her neighbors said, “How does it matter that the child is a girl? She is very beautiful. Let
+                     her be what she is. Everyone comes with their apportioned fate.” They saw the girl, and they
+                     went away.
+                     
+                     ओय गाय कॅ बाछY होयेछे, ओकरा खबू सCुदर स काड़ी कपड़ा लपेट क गदRन म+ बाँधल जायेछे, जे
+                     गाय के ने नज़र लागे । “हमर बेट= के कोनो मोल नै । गाय के नै नज़र लागे, गाय-यो क बाँधल जायेछे,
+                     अ ओकरा बMचो क बाँधल जायेछे, काड़ी कपड़ा, गला म+ ।”
+                     
+                     A female calf was born to the cow. A female calf was born to the cow. She was dressed
+                     beautifully, and a black cloth was tied to her neck so that she might be protected from evil eye.
+                     The daughter-in-law wondered, “My daughter has no worth for my in-laws. So that the cow not suffer from evil eye, they tied a black cloth to the cow too, and they tied it to her calf too, a black cloth, in her neck.”
+                     
+                     ओकर बMचा जे बीमार रहेछे, संजोग छै, ओकरा बMचा क खबू तजे बखु ार भौ जायेछे । रOधया
+                     बMचा के तजे बखु ार भौ जायेछे । त ओकर सास के कहेछे, “बdड बखु ार छे, देhखयो नऽ ।”
+                     
+                     Her daughter fell ill – as chance would have it – her child suffered from high fever.
+                     Radhiyā’s daughter had high fever. She told her mother-in-law, “She has high fever, please take a look at her.”
+                     
+                     “है, हमर अपने गाय के बMचा बीमार ए ।” मढ़ु = झाँएठ कॅ चल जायेछे । “हम ने एखन देखबै ।
+                     हमर अपने गाय के बMचा बीमार ए ।”
+                     
+                     Her mother-in-law said, “Go away, the child of my cow is sick as well.” She tossed her
+                     head in disgust, and she went away. Her mother-in-law declared, “I won’t see your girl now,
+                     my cow’s child itself is sick.”
+                     
+                     इ अपने तलु सी के रस, lडबीया जड़ा के, तखन अपन बMचा कॅ दॅ रहल छै । गाय के बMचा, सेहो
+                     बीमार भौ जायेछे । त गाय के बMचा ले, गाय OचOचया रहल छै । कान रहल छै । “इ कान रहल छै, त
+                     एकरा मढ़ु = घमु ा क जा रहल छै ।” “हमरा स...टाईम नै य...हमर गाय के बMचा बीमार य ।” गाय के बMचा बीमार छै, त अपने कान रहल छै । ओकरा गदRन...डॉoटर सब पकड़ क गदRन म+ कपड़ा लगबैछै जे नजऱ नैलागे, और डॉoटर सब इCजेoशन लगबैछे जे मरै न इ गाय के बMचा । फे र पोती के छोड़ क चल जायेछे । तखन इ रOधया कहेछे जे “हे भगवान, अगला जनम हमरो गाय-ए बनायेब ।”
+                     
+                     She got the juice of the tulsī plant, she lit an earthen lamp, then she gave the juice to
+                     her daughter. The cow’s child – it too had fallen sick. So, the cow was howling for her child. She was crying. The daughter-in-law noticed, “My girl too is weeping, but my mother-in-law turns
+                     her face away from her.” Her mother-in-law said to her, “I don’t have...I don’t have time...my cow’s child is sick.” Since the cow’s child was sick, she was crying. The doctors held her neck...her neck, and they put a cloth around her neck so that she could be saved from evil eyes, and the doctors gave an injection to the cow’s child. The mother-in-law again left their room without paying any attention to her granddaughter. Then Radhiyā prayed, “O God, in the next birth, please do make me a cow.”
+                     
+                     पजू ा करेछन भगवान स ।
+                     
+                     She prayed to the God.
+                     
+                     [ गाय के जीवन हमरा से बेसी नीक छै । ]
+                     
+                     [ The life of a cow is much better than my life. ]
+                     
+                     “बेसी नीक छै एकटा गाय के जीवन हमरा स ।” जे, “ओकर बMचा लॅ कान रहलछे, ओकरा दवाइ
+                     पर दवाइ पड़ रहल छै । ओकरा गदRन म+ नज़र नैलागे से काड़ी कपड़ा बनहा रहल छै । और हमर बMचा
+                     बीमार य, त कहेय, ‘एखन ने देखबो ।’ आय जे हमहूगाय रहतs, तखन फaल होयेछे जे हम औरत छYये
+                     ताँय हमर बMचा कॅ ने देखेय । आय जे हम जानवर रहतs, गाय रहतs, त हमर बMचा के त एहना इलाज
+                     होइते । डॉoटर लग लै जायल जेते, सईुया लगवाएल जेते ।” तtकहेछे, “हे भगवान, अगला जनम हमरो
+                     गाये बनायब ।”
+                     
+                     A cow is much better off than I am in my life. She said, “My mother-in-law cries for the
+                     cow’s child, and the calf is given all kinds of medicine. So that evil eye not be not cast on her calf, they are preparing a black cloth for her. And my daughter is sick, she says, ‘I won’t be able to see her now.’ If only I were a cow today! At such moments, one feels it, since I am women, no
+                     one pays attention to my child. If I were an animal, if I were a cow, then my child too would have
+                     received proper medical attention. They would take her to the doctor, they would give her a shot.” That’s why she prayed, “O God, please make me too a cow in the next birth.”
+                  </p></sp>
+            </div2>
+            
+         </div1>
+      </body>
+   </text>
+</TEI>
+

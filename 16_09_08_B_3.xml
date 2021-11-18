@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p />
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <particDesc>
+            <listPerson>
+               <person xml:id="jha">
+                  <persName>Vineeta Jha</persName>
+               </person>
+               <person xml:id="coralynn">
+                  <persName>Coralynn Davis</persName>
+               </person>
+               <person xml:id="translator" />
+               <person xml:id="outsidelady">
+               </person>
+            </listPerson>
+            
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1 type="story">
+            <head>
+               <title>Dedh Bitna</title>
+               <persName type="storyteller" ref="#jha">Vineeta Jha</persName>
+               <persName type="interviewer">Coralynn Davis</persName>
+               <placeName>Vineeta's home</placeName>
+               <date when-iso="2016-09-08"/> Maithili Folklore 1 Documented by <persName>Dr. Coralynn V. Davis</persName>
+               Line-by-line Transcription and Translation by Pranav Prakash </head>
+            <div2 type="sp1">
+               <sp who="#jha">
+                  <p>...सब के रक्षा करब, कुमाएर रहब त, हमरा ब्रह्मचारिणी बैन कॅ रक्षा करब । और ऊ ने भौ पाबेछेन, हुनकर अपनों रक्षा कैल ने भौ पाबेछेन । 
+                     
+                     …I will protect everyone, I will stay virgin then, I will become an ascetic and I will protect others. And that could not be realized, she was not even able to protect herself.  
+                     
+                     [ So, this is about two sisters… ]
+                     
+                     [ So, this is about two sisters… ]
+                     
+                     इ राजा...
+                     
+                     This king…
+                     
+                     [ …one of them decides to… ]
+                     
+                     [ …one of them decides to… ]
+                     
+                     हम कह देयछिये, आंहाँ कह देबै । 
+                     
+                     Let me finish narrating, then you can explain to her. 
+                     
+                     [ …अच्छा ठीक छै । ]
+                     
+                     [ …ok, that’s fine… ]
+                     
+                     राजा कुँवरदेव के दुटा बेटी छलखैन हँ । तऽ दुन्नू बेटी कॅ जहन पैग भेलेन, खेलैत देखलखिन । तऽ बिबाह लॅ, कहलखिन मन्त्री कॅ के बिबाह के योग बर खोज के लाबैला । 
+                     
+                     Rājā Kunwardev had two daughters. When both daughters had grown older, he once saw them playing. Then, for their marriage, he told his minister to find a suitable groom for their marriage. 
+                     
+                     तऽ हुन्कर छोटकी बेटी कहलखिन जे “नै, हम नै बिबाह करब । से हम तऽ कुमारी रैहकऽ सबक रक्षा करबै । बड़की बहिन कॅ बिबाह करा दियौ ।” 
+                     
+                     Then his younger daughter said to him, “No, I do not want to get married. I will stay unmarried so that I may protect everyone. You proceed with the marriage of my elder sister.” 
+                     
+                     कहलखिन, “ठीक छै ।” 
+                     
+                     He replied, “Ok fine.”
+                     
+                     बड़की के बिबाह-दान करा देलखिन । हुनका बिदा कॅ देलखिन । उ सासुर गेलखिन । तखन कहैलखिन, “आहाँ जे हमरा लॅग में रॅहब, से तैसे तऽ आहाँ के नै तपस्या हैत ।” 
+                     
+                     The elder daughter was married and given to her husband. She was sent off to her in-laws’ home. She went to the place of her in-laws. Then the king said to his younger daughter, “As long as you continue to live with me, you can’t immerse yourself in spiritual austerities.”  
+                     
+                     कहलखिन, “हम जंगल में जाएब, तपस्या करब, तपस्वी बनब, आ सब के रक्षा करबै ।” त हुनका राजा रानी कहलखिन जे, “ठीक छै ।” ओ अपन...राजसी वस्त्र त्याग कॅ, गेरूआँ वस्त्र धारण कॅ क, आ एकटा हुनका साथ में खवासनी दॅ देलखिन, और जे किछु हुन्कर, छोट-मोट सामग्री दॅ देलखिन, जे, “जाऊ आब, आहाँ जे जंगल जायब, से जाऊ - की करब हम? - आहाँ जहन बिबाह ने करब त ।”
+                     
+                     She replied, “I will go to the forest, I will do spiritual austerities, I will become an ascetic, and I will protect everyone.” Then the king and the queen replied, “All right.”  She gave up her…royal clothing, she wore an ascetic’s robe, and a female caretaker was asked to accompany her to the forest. And whatever little things belonged to her, all were given to her. And they said to her, “Now you may leave, you who wish to go to the forest, you may proceed – what can we possibly do? – now that you don’t want to get married.”
+                     
+                     जाएत-जाएत एकटा जंगल में गेलखिन उ । ओय जंगल में, बहूत पैग जंगल छलै, अ ओय में एकटा कुटिया बना देलखिन, ओय में रहै छलैथऽ, दासी हुन्कर सेवा करे छलेन्हऽ, अ उ रहैथ । एक दिन कि भेलै, त एकटा साधू एलखिन, भगवान के रूप धॅ क । साधू एलखिन, भिक्षा माँगेय लॅ । 
+                     
+                     She kept walking until she arrived at a forest. In that forest – it was a very large forest – in that forest, she built a shelter, and she began living in there. Her personal attendant took care of her, and she lived there. One day, it so happened that a sage arrived there, in the guise of a god. A sage came there, begging for alms. 
+                     
+                     [ भगवान एलखिन साधू के रूप धॅ क । ]
+                     
+                     [ A god arrived there in the guise of a sage.]
+                     
+                     साधू के रूप धॅ क, भगवान एलखिन भिक्षा माँगेल । हुनका भिक्षा दॅ देलखिन, अ उ जाय छलखिन्ह जे साधू, त गाछ पर छलैह कऊआ बैसल, उ कऊआ हुन्का लैट्रिन कॅ देलकन, साधू के ऊपर । उ साधू कहलखिन्ह, तपस्या हुन्कर जाँच करै के लेल आयल रहथिन, तॅ ओ लैट्रिन कॅ देल्केन, ओ जाय काल में ओकरा श्राप दॅ देलखिन, “जे जाह, ए जंगल में आग लाएग जेतो, तू मर जेब ।”
+                     
+                     In the guise of a sage, a god came there seeking some alms. She gave alms to him, and he went on his way. Then, there was a crow sitting on a tree. That crow shat on the sage, its droppings fell on the sage. That sage said – he had been there to test her spiritual austerities, but the crow shat on him – that sage cursed the crow, as he was about to leave the forest, he put a curse on him, ”Be gone, there will a fire in the forest, and you will die.”
+                     
+                     The video snaps between 2:01 and 2:02 minutes, it seems a portion of recording here was corrupted. 
+                     
+                     भिक्षा देयछे । कॅल जोड़ेलखिन जे, “की आज्ञा ? कहूँ ।” त उ कहलखिन, “किछु ने, तपस्वी के जंगल में आग लाग गेलेय, जदि आहाँ कॅ शक्ति य त बुझा दियौ, नै तऽ, आहाँ के बहिन नै जीत, जड़ जायत, ज़िन्दा ने रहत, जड़ जायत ।”
+                     
+                     It gave alms to her. With folded hands, she said, “What is your command? Tell it to me.” It replied, “Nothing much, the forest of the female ascetic has caught fire, if you are mighty enough, please extinguish the fire, otherwise, your sister won’t survive, she will get burnt, she won’t be alive, she will be burnt to death.” 
+                     
+                     कहलखिन, “से बात छै ?” 
+                     तऽ “हाँ ।”  
+                     तऽ “ओऽ तऽ हम दू मिनट में विष्णु भगवान काबू कॅ लेबेन ।” 
+                     तऽ “केना ?”
+                     
+                     She said, “Is that so?”
+                     To which it replied “Yes”
+                     Then she said, “I see, then I can control Viṣṇu in two minutes.”
+                     Then it queries, “How so?”
+                     
+                     “ओ ब्रह्मचारिणी बनली तपस्वी...से...हुनका से ने भेलेन । कुमारब्रता रहली त, आहाँ पतिब्रता भो कॅ से इ जंगल के मिझा लेब ?”
+                     त कहलखिन - “हँ । हम मिझा देबै । बहिन के रक्षा हम एत्ते से करब ।”
+                     
+                     “That ‘female renunciant-turned-ascetic’…she…she could not do it. She was a virgin ascetic, but you are married women, will you be able to extinguish the forest fire? 
+                     She replied, “Yes, I will put it out. I will protect my sister from here itself.”
+                     
+                     The video snaps again between 2:35 and 2:36. 
+                     
+                     “इ आहाँ रक्षा करूँ । तुलसी में उ जल देलखिन, ओहिते जंगल के आग मिझा गेले ।” 
+                     
+                     “This you should protect. As soon as she poured water on the tulsī plant, the forest fire was put out.” 
+                     
+                     तहन बहिन के आब कॅ कहैछथिन जे, “देखियो, आहाँ माता पिता के ठुकरा देलियेन जे ‘हम ने करब बिबाह । हम सबक रक्षा करब ।’ और आहाँ के अपन रक्षा कैल ने भेल । आहाँ जे जंगल में रहलों ओय जंगल में आहाँ के लैग कॅ कतैक जीब - जन्तु जड़ गेलै । तैं इ जरूरी नै छे जे, ‘आहाँ कुमारी रहब, तखने आहाँ रक्षा कॅ सकैछिये, ब्रह्मचारिणी बन कॅ ।’ अहाँ परिबारिक गृहस्थियो में रह के सबके रक्षा कॅ सकेछिये ।” 
+                     
+                     Then she went to her sister and said to her, “See, you disregarded mother and father as you declared, ‘I will not marry. I will protect everyone.’  And you could not even save yourself. In the forest where you were residing, how many beings – animals and plants – in your vicinity were burnt to death! So, it isn't necessarily the case that ‘you protect others only when you are unmarried, only when you are a renunciant.’ You can protect others even when you lead the life of a householder.</p></sp>
+            </div2>
+            
+         </div1>
+      </body>
+   </text>
+</TEI>
+

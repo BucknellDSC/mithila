@@ -21,8 +21,14 @@
          <head>Maithili Folklore 16_09_08_a_2
             Documented by Dr. Coralynn V. Davis
             Transcription and Translation by Pranav Prakash
+            <persName type="storyteller" ref="$#nibha">Nibha Kumari</persName>
+            <persName type="interviewer"> Coralynn V. Davis</persName>
+            <placeName>Mai Madhubani</placeName>
+            <date when-iso="2016-09-08"></date>
          </head>
-         <p>एकटा <objectName type="human">लड़का</objectName> रॅहैछे, जेकर शादी होयेछे । उ अपन शादी होयेछे, नऽ, त बड खुश रहैछे, जे हमर शादी भैले ।
+         <div1 type="sp1">
+            <sp who="#jha">
+            <p> एकटा <objectName type="human">लड़का</objectName> रॅहैछे, जेकर शादी होयेछे । उ अपन शादी होयेछे, नऽ, त बड खुश रहैछे, जे हमर शादी भैले ।
             
             There is a <objectName type="human">lad</objectName> who gets married. He is very pleased with his marriage – “My marriage has
             happened.”
@@ -153,13 +159,16 @@
             <objectName type="human">woman</objectName> is kind to her, she comes to her rescue, and she arrives in their <placeName>home</placeName> and says – “Oh
             my god, you have made a <objectName type="food">khicadī</objectName>  out of her”…then…that is when…he…he remembers, “There
             you go, my <objectName type="human">mother-in-law</objectName> had said that we should cook <objectName type="food">khicadī</objectName>!” then he replies – “That is
-            precisely what I have been asking her to cook.”
+            precisely what I have been asking her to cook."</p>
+            </div1>
             ...............
-            
-            “हो गया ? जाओ, जाके <objectName type="food">खिचड़ी</objectName> बना के खाना ।”
+            <div1 type="sp2">
+               <sp who="#auidence"
+            <p>“हो गया ? जाओ, जाके <objectName type="food">खिचड़ी</objectName> बना के खाना ।”
             
             “Is that all? Go on, get back, cook <objectName type="food">khicaḍī</objectName>, and eat.”
             </p>
+               </div1>
       </body>
   </text>
 </TEI>

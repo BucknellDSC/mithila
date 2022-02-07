@@ -107,14 +107,18 @@
                      
                      Then a <objectName type="human">girl</objectName> was born to her. Her <objectName type="relationship">mother-in-law</objectName> turned her face away and she walked off.
                      After seeing her <objectName type="human">new-born girl</objectName>, she said, “Alas, a <objectName type="human">girl</objectName> is after all born. What a shame, this <objectName type="human">child</objectName>
-                     is <objectName type="gender">girl</objectName>!”
+                     is <objectName type="gender">girl</objectName>!”</p>
+               </sp>
+            </div2>
                      
-                     त कहेछे दोसर, “है, एना Xकया करैछY ?”
+                     <div2 type= "sp1" 
+                        <sp who="#outside lady">
+                           <p> त कहेछे दोसर, “है, एना Xकया करैछY ?”
                      
                      Others responded to her, “Hey, why are you behaving in this way?”
                      
                      पड़ोस के लोग, “बेट= छै त कa छै, सCुदर बdड-य, रहॅ /दयौ, अपन करम भाग छै ।” बेट= कॅ देख
-                     कॅ चल जायेछे ।
+                     कॅ चल जायेछ
                      
                      Her <objectName>neighbors</objectName> said, “How does it matter that the <objectName type="human">child</objectName> is a <objectName type="gender">girl</objectName>? She is very beautiful. Let
                      her be what she is. Everyone comes with their <objectName>apportioned fate</objectName>.” They saw the <objectName type="gender">girl</objectName>, and they

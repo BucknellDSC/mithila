@@ -3,7 +3,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Title</title>
@@ -15,24 +15,23 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
-     <profileDesc>
-        <particDesc>
-           <listPerson>
-              <person xml:id="jha">
-                 <persName>Vineeta Jha</persName>
-              </person>
-              <person xml:id="coralynn">
-                 <persName>Coralynn Davis</persName>
-              </person>
-              <person xml:id="translator" />
-              <person xml:id="outsidelady">
-              </person>
-           </listPerson>
-           
-        </particDesc>
-     </profileDesc>
-  </teiHeader>
-  <text>
+      <profileDesc>
+         <particDesc>
+            <listPerson>
+               <person xml:id="jha">
+                  <persName>Vineeta Jha</persName>
+               </person>
+               <person xml:id="coralynn">
+                  <persName>Coralynn Davis</persName>
+               </person>
+               <person xml:id="translator"/>
+               <person xml:id="outsidelady"> </person>
+            </listPerson>
+
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
       <body>
          <div1 type="story">
             <head>
@@ -44,57 +43,133 @@
                Line-by-line Transcription and Translation by Pranav Prakash </head>
             <div2 type="sp1">
                <sp who="devi">
-                  <p>एकटा ब्राह्मण छलखिन्ह । बहूत गरीब । दिन भर माँग-चाँग कॅ, आन कॅ, खाय-पीबै छलखिन्ह । हुन्का सात ता बेटी रहै । इ बेटी सात ता । सातो बेटी माँग-चाँग कॅ आनै, त सब बेटी खा लेय । अपना दुनु गोटे लॅ नै रहै । रोज भुक्खल रहै । 
-                      There was a brahmin. He was very poor. He begged during the day, and he brought home whatever was offered to him. His family survived on begged food and drinks. He had seven daughters. Like this girl, he had seven daughters. His seven daughters too begged for food, but they ate all of their begged food. No food was ever left for the brahmin and his wife. They both starved everyday. 
-                     
-                     एक दिन कहल्के कि ब्राह्मण जे, “हमरा खीर खाय के मन होइय - दूध-चीनी मिलाय के खीर बनै यऽ नऽ ? - खीर खाय के मन होइय ।” त माँग-चाँग कॅ दूध, चॅड़, चीनी आनलक । तऽ खीर बनेलक । त कहलके कि, “आय सब बच्चा क सुताऽ देबै, साँझे, तखन अपने दुनु आदमी खीर राएन कॅ खैब ।” 
-                     One day the brahmin happened to say, “I feel like eating khīr – the khīr that is cooked with milk and sugar – I want to eat khīr.” Then he begged for its ingredients, and he brought milk, rice, and sugar to his home. They prepared khīr. Then he said to his wife, “Let’s put our children to sleep early today then at dusk we both will ourselves cook khīr and eat it. 
-                     
-                     सबटा काज त बेटी सब करेत रहै । त, जहन दुनु गोटे...बेटी सब सुईत गेलै । खीर राएन कॅ खाय लागल । तऽ थाड़ी ताकै लॅ गेल । त कहलके कि, “जा, थाड़ी तऽ नै भेटैय ।” त एकटा बेटी कहलके कि, “हैय्या, माँ ।” एकटा उइठ गेलै । फेर, इम्हर-आम्हर ताकै य, “जा, गिलास नै यऽ, पानी कथि में पीब ?” फेर दोसर बेटी कहलके, “हैय्या, माँ ।” दूटा उठ गेलै । एहिना सब चीज ताइकते-ताइकते में, सातों बेटी उठ गेल । सातो एते एते खीर खा लेलके । फेर अपना दुनु आदमी के नै भेलै ।  
-                     Their daughters, however, used to do household all chores. Then, when both husband and wife…their daughters were asleep. After cooking the khīr, they were getting ready to eat it. So, they began searching for plates. His wife said, “Aargh, I can’t find the plates.” Then one of their daughters replied, “Here they are, Ma.” Thus one of them had woken up. Again, she began looking for glasses, “Aargh, there are no glasses, how will we drink water?” Another daughter replied, “Here they are, Ma.” Thus the second daughter was awake too. Likewise, as they searched for different utensils, all seven daughters had woken up. Each of them availed of some portion of the khīr. Once again neither husband nor wife could not get any khīr. 
-                     
-                     ब्राह्मण कहलके कि “नह, आब इ बच्चा सब कॅ नै राखब, सबके जंगल में दॅ आबेछी ।” सातो बेटी कॅ लॅ कॅ, कहलके, “चल, आम, जामुन - गाछ में फड़े य नऽ? - चल, आम के गाछी में, जामुन खसतै, खाएब, चल ।” सब बेटी कॅ लॅ गेल । गाछ पे चेढ़ कॅ जामुन तोड़ कॅ, खसा देलके । सब बेटी एकटा कॅ खाए, निक्हा निक्हा माय लॅ राखै । जे “माँ लॅ लौ जाएब ।” अ खड़ाब खड़ाब अपने खाय । जहन ओ केलकै त कहलके कि, “बाबू, पप्पा, पियास लागल य । पानी पीब ।” पप्पा कहल्के, “ठीक छै, तू रह, हम पानी लॅ कॅ आबैछी ।” पप्पा छोड़ कॅ चल एलै, जंगल में, सातों बहीन के । “आब ऐत पप्पा, आब ऐत, आब ऐत,” नै एलै पप्पा । साँझ भौ गेलै । 
-                     The Brahmin concluded, “No, I am not going to keep these children with me, I will leave them in a forest.” He gathered the seven daughters and told them, “Let's go out, and get mangoes and jamun plums – those fruits that grow on trees – let’s go to the mango groves, and when the jamum plums fall we will eat them. Let's go.” He brought his daughters to the forest. After climbing up a jamun tree, he plucked its fruits and dropped them down to his daughters. His daughters ate some of them, but they saved the choicest of the fruits for their mother. They were of the view, “We will carry some fruits for our Ma.” So, they themselves began eating only low quality fruits. Once they had eaten in this manner, then they said to their father, “Bābū, Pappā, we are thirsty. We need to drink water.” Their father said, “Sure, stay here, I will bring water for you all.” Their father left them in the forest, he abandoned the seven sisters there.  “He will come now. Pappā will come now, he will come now.” They waited, but their father did not come. It was already evening.
-                     
-                     त एकटा राक्षस के महल छलै । एकटा राक्षस के महल रहै । ओय महल में जहाँ साँझ भौ गेलै, तॅ उ बच्चा सब चेल गेलै । चेल गेलै, त ओ में देखलक, बहूत चीज, रोज खायके, पीयेके, सूतै के, सबटा छलै य । साँझ में आएल, त राक्षस सब जहन आएल, त कहेय, “मनु-गंध, मनु-गंध ।” 
-                     Then there was a palace of demons. A demon’s place was there. When it was evening, those children went into the palace. They went there. They saw there were many things in the palace – they had food and drinks for daily consumption, they had beds to sleep in, they had everything. When they returned in the evening, when the demons returned in the evening, then they yelled, “the smell of humans, the stink of humans!” 
-                     
-                     एकठां में सातो बहीन नुका के रेह गेल । अ गरम-गरम से खीचड़ी - चावल दाल मिलाय के जे खीचड़ी बॅनेयऽ - खीचड़ी बना कॅ, सब राक्षस एक कात में बैसल, सबके पाछु में कॅ, थाड़ी में पड़ेस-पड़ेस कॅ दॅ देलके । अ सब राक्षस चारु कात से बैसल, आएग पजाड़ कॅ, आएग तॉपै लॅ । एना कॅ क बैसेछे, त पैर दुखा जायछै, त एना कॅ बैसेछे नऽ ? गरम-गरम थाड़ी सब के तॅड़ में दॅ देलकै । सब जे एना कॅ क बैसल, सबके जेड़ गेलै । पाछा सब के जड़ गेलै । जड़ गेल, त राक्षस सब मड़ गेल । 
-                      The seven sisters hid in a corner of the palace. Some hot simmering khicaḍī – the khicaḍī that is made up of rice and pulses – after cooking some khicaḍī, they served khicaḍī in plates, and they placed hot plates behind the demons who were sitting in one corner of the palace. The demons were sitting on all four sides of a fireplace they had lit, and they were warming themselves. When one is seated in this manner for a long time, their legs start hurting, and then they change their posture. Meanwhile, the girls had placed hot plates of khicaḍī behind their backs. As they changed their posture, their backs were burnt. Their bottoms were burnt. They were burnt, so they died. 
-                     
-                     उ महल में सातो बहीनी रहल लागल । खूब सुखी स । एक दिन ओकर बाप, पप्पा, माँगेत-माँगेत ऊ बेटी ओठमां गेलै । भीख माँगै लॅ । त उ जब देखलके, त उ कहै कि, “इ त हमरे बेटी [पप्पा?] ए, हमरे पप्पा ए ।” उ कहे, “हमरे पप्पा ए ।” त उ अपन बेटी कॅ...बेसी कॅ चावल, दाल, रुपया-पैसा देलके बेटी [बाप?] के, बाप के । जे, “लॅ जाऊ पप्पा, खाएब ।” 
-                     The seven sisters started living in that palace. They lived a very prosperous life. One day their father, Pappā, begging from one to place to other, arrived at his daughters’ palace. He went there begging for alms. When she saw him, she thought, “This is my own daughter [father], this is my father.” She thought, “This is my father.” Then to his daughter…his daughter gave him a large amount of rice, beans, rupees and money to her daughter [father], to her father. She said, “Please take this, Pappā, eat it.” 
-                     
-                     तहन कहलके, “हम ने चिन्हेछीय बेटी तोरा, तू के छॅ ?” 
-                     Then he said, “I do not recognize you, O daughter, who are you?” 
-                     
-                     त, “आहाँ हमर पप्पा छी । माँ केना ए ? बाबू केना ए ?” 
-                     She replied, “You are my father. How is Ma? How is father?”
-                     
-                     त कहलके जे, “सब ठीकै छो ।” 
-                     Then he said, “Everyone is doing just fine.” 
-                     
-                     “आहाँ के बच्चा,” बेटी पूछलके, “आहाँ के बेटा-बेटी भेल रेहै ?”
-                     “Your children,” his daughter asked, “Did you have sons or daughters?” 
-                     
-                     त कहलके, “नोय ।”
-                     He replied, “No.”
-                     
-                     आ तऽ, “नै बेटी भेल, बेटा नै रेहै ?”
-                     She continued, “Did you not have any daughters, no sons either?” 
-                     
-                     त, “नोय, उ सब...नै रेहै । भेल, सब मएर गेल ।”
-                     He replied, “No, they were…they do not exist. They existed, but they all perished.” 
-                     
-                     त ओकर बेटी कहलके, “हमही छीं, पप्पा, आहाँ के बेटी ।”
-                     Then his daughter said, “I am your daughter, Pappā.” 
-                     
-                     तहन खूब दॅ लॅ के देलकै, बाप के बिदा केलॅक । अपना माँ के, पप्पा के, सब कॅ ओय महल में लॅ आयल, सब अपन सुखी सॅ रह लागल, संग में । 
-                     Then she gave many things to him, and she gave him a good farewell. Afterward, she brought her mother, her father and others to the palace, and everyone lived happily ever after, they lived together. 
-                  </p></sp>
+                  <p>एकटा ब्राह्मण छलखिन्ह । बहूत गरीब । दिन भर माँग-चाँग कॅ, आन कॅ, खाय-पीबै
+                     छलखिन्ह । हुन्का सात ता बेटी रहै । इ बेटी सात ता । सातो बेटी माँग-चाँग कॅ आनै,
+                     त सब बेटी खा लेय । अपना दुनु गोटे लॅ नै रहै । रोज भुक्खल रहै । There was a
+                        <persName>brahmin</persName>. He was very <objectName>poor</objectName>. He
+                     begged during the day, and he brought <placeName>home</placeName> whatever was
+                     offered to him. <objectName>His family</objectName> survived on begged
+                        <objectName>food and drinks</objectName>. He had <objectName
+                        subtype="relationship">seven daughters</objectName>. Like <persName>this
+                        girl</persName>, he had <objectName subtype="relationship">seven
+                        daughters</objectName>. His <objectName subtype="relationship">seven
+                        daughters</objectName> too begged for <objectName>food</objectName>, but
+                     they ate all of their <objectName>begged food</objectName>. No food was ever
+                     left for the <persName>brahmin and his wife</persName>. They both <objectName
+                        subtype="adjective">starved</objectName> everyday. एक दिन कहल्के कि ब्राह्मण
+                     जे, “हमरा खीर खाय के मन होइय - दूध-चीनी मिलाय के खीर बनै यऽ नऽ ? - खीर खाय के
+                     मन होइय ।” त माँग-चाँग कॅ दूध, चॅड़, चीनी आनलक । तऽ खीर बनेलक । त कहलके कि, “आय
+                     सब बच्चा क सुताऽ देबै, साँझे, तखन अपने दुनु आदमी खीर राएन कॅ खैब ।” One day
+                        <persName>the brahmin</persName> happened to say, “I feel like eating
+                        <objectName subtype="food">khīr</objectName> – <objectName subtype="food"
+                        >the khīr</objectName> that is cooked with <objectName subtype="food">milk
+                        and sugar</objectName> – I want to eat <objectName subtype="food"
+                        >khīr</objectName>.” Then he begged for its ingredients, and he brought
+                        <objectName subtype="food">milk, rice, and sugar</objectName> to his
+                        <placeName>home</placeName>. They prepared <objectName subtype="food"
+                        >khīr</objectName>. Then he said to <persName subtype="relationship">his
+                        wife</persName>, “Let’s put <persName subtype="relationship">our
+                        children</persName> to sleep early today then at dusk we both will ourselves
+                     cook <objectName subtype="food">khīr</objectName> and eat it. सबटा काज त बेटी
+                     सब करेत रहै । त, जहन दुनु गोटे...बेटी सब सुईत गेलै । खीर राएन कॅ खाय लागल । तऽ
+                     थाड़ी ताकै लॅ गेल । त कहलके कि, “जा, थाड़ी तऽ नै भेटैय ।” त एकटा बेटी कहलके कि,
+                     “हैय्या, माँ ।” एकटा उइठ गेलै । फेर, इम्हर-आम्हर ताकै य, “जा, गिलास नै यऽ, पानी
+                     कथि में पीब ?” फेर दोसर बेटी कहलके, “हैय्या, माँ ।” दूटा उठ गेलै । एहिना सब चीज
+                     ताइकते-ताइकते में, सातों बेटी उठ गेल । सातो एते एते खीर खा लेलके । फेर अपना
+                     दुनु आदमी के नै भेलै । <persName subtype="relationship">Their
+                        daughters</persName>, however, used to do <objectName>household all
+                        chores</objectName>. Then, when <persName>both husband and wife…their
+                        daughters</persName> were asleep. After cooking the <objectName
+                        subtype="food">khīr</objectName>, they were getting ready to eat it. So,
+                     they began searching for <objectName>plates</objectName>. His wife said,
+                     “Aargh, I can’t find the<objectName> plates</objectName>.” Then <persName
+                        subtype="relationship">one of their daughters</persName> replied, “Here they
+                     are, Ma.” Thus one of them had woken up. Again, she began looking for
+                        <objectName>glasses</objectName>, “Aargh, there are no
+                        <objectName>glasses</objectName>, how will we drink
+                        <objectName>water</objectName>?” <persName subtype="relationship">Another
+                        daughter </persName>replied, “Here they are, <persName>Ma</persName>.” Thus
+                     the <persName>second daughter</persName> was awake too. Likewise, as they
+                     searched for different <objectName>utensils</objectName>, all <objectName>seven
+                        daughters</objectName> had woken up. Each of them availed of some portion of
+                     the <persName>khīr</persName>. Once again neither <persName
+                        subtype="relationship">husband nor wife</persName> could not get any
+                        <objectName subtype="food">khīr</objectName>. ब्राह्मण कहलके कि “नह, आब इ
+                     बच्चा सब कॅ नै राखब, सबके जंगल में दॅ आबेछी ।” सातो बेटी कॅ लॅ कॅ, कहलके, “चल,
+                     आम, जामुन - गाछ में फड़े य नऽ? - चल, आम के गाछी में, जामुन खसतै, खाएब, चल ।” सब
+                     बेटी कॅ लॅ गेल । गाछ पे चेढ़ कॅ जामुन तोड़ कॅ, खसा देलके । सब बेटी एकटा कॅ खाए,
+                     निक्हा निक्हा माय लॅ राखै । जे “माँ लॅ लौ जाएब ।” अ खड़ाब खड़ाब अपने खाय । जहन
+                     ओ केलकै त कहलके कि, “बाबू, पप्पा, पियास लागल य । पानी पीब ।” पप्पा कहल्के, “ठीक
+                     छै, तू रह, हम पानी लॅ कॅ आबैछी ।” पप्पा छोड़ कॅ चल एलै, जंगल में, सातों बहीन के
+                     । “आब ऐत पप्पा, आब ऐत, आब ऐत,” नै एलै पप्पा । साँझ भ<persName>ौ गेलै ।
+                        T</persName>he Brahmin concluded, “No, I am not going to keep <objectName
+                        subtype="relationship">these children</objectName> with me, I will leave
+                     them in a forest.” He gathered the seven daughters and told them, “Let's go
+                     out, and get mangoes and jamun plums – those fruits that grow on trees – let’s
+                     go to the mango groves, and when the jamum plums fall we will eat them. Let's
+                     go.” He brought his daughters to the forest. After climbing up a jamun tree, he
+                     plucked its fruits and dropped them down to his daughters. His daughters ate
+                     some of them, but they saved the choicest of the fruits for their mother. They
+                     were of the view, “We will carry some fruits for our Ma.” So, they themselves
+                     began eating only low quality fruits. Once they had eaten in this manner, then
+                     they said to their father, “Bābū, Pappā, we are thirsty. We need to drink
+                     water.” Their father said, “Sure, stay here, I will bring water for you all.”
+                     Their father left them in the forest, he abandoned the seven sisters there. “He
+                     will come now. Pappā will come now, he will come now.” They waited, but their
+                     father did not come. It was already evening. त एकटा राक्षस के महल छलै । एकटा
+                     राक्षस के महल रहै । ओय महल में जहाँ साँझ भौ गेलै, तॅ उ बच्चा सब चेल गेलै । चेल
+                     गेलै, त ओ में देखलक, बहूत चीज, रोज खायके, पीयेके, सूतै के, सबटा छलै य । साँझ
+                     में आएल, त राक्षस सब जहन आएल, त कहेय, “मनु-गंध, मनु-गंध ।” Then there was a
+                     palace of demons. A demon’s place was there. When it was evening, those
+                     children went into the palace. They went there. They saw there were many things
+                     in the palace – they had food and drinks for daily consumption, they had beds
+                     to sleep in, they had everything. When they returned in the evening, when the
+                     demons returned in the evening, then they yelled, “the smell of humans, the
+                     stink of humans!” एकठां में सातो बहीन नुका के रेह गेल । अ गरम-गरम से खीचड़ी -
+                     चावल दाल मिलाय के जे खीचड़ी बॅनेयऽ - खीचड़ी बना कॅ, सब राक्षस एक कात में बैसल,
+                     सबके पाछु में कॅ, थाड़ी में पड़ेस-पड़ेस कॅ दॅ देलके । अ सब राक्षस चारु कात से
+                     बैसल, आएग पजाड़ कॅ, आएग तॉपै लॅ । एना कॅ क बैसेछे, त पैर दुखा जायछै, त एना कॅ
+                     बैसेछे नऽ ? गरम-गरम थाड़ी सब के तॅड़ में दॅ देलकै । सब जे एना कॅ क बैसल, सबके
+                     जेड़ गेलै । पाछा सब के जड़ गेलै । जड़ गेल, त राक्षस सब मड़ गेल । The seven
+                     sisters hid in a corner of the palace. Some hot simmering khicaḍī – the khicaḍī
+                     that is made up of rice and pulses – after cooking some khicaḍī, they served
+                     khicaḍī in plates, and they placed hot plates behind the demons who were
+                     sitting in one corner of the palace. The demons were sitting on all four sides
+                     of a fireplace they had lit, and they were warming themselves. When one is
+                     seated in this manner for a long time, their legs start hurting, and then they
+                     change their posture. Meanwhile, the girls had placed hot plates of khicaḍī
+                     behind their backs. As they changed their posture, their backs were burnt.
+                     Their bottoms were burnt. They were burnt, so they died. उ महल में सातो बहीनी
+                     रहल लागल । खूब सुखी स । एक दिन ओकर बाप, पप्पा, माँगेत-माँगेत ऊ बेटी ओठमां गेलै
+                     । भीख माँगै लॅ । त उ जब देखलके, त उ कहै कि, “इ त हमरे बेटी [पप्पा?] ए, हमरे
+                     पप्पा ए ।” उ कहे, “हमरे पप्पा ए ।” त उ अपन बेटी कॅ...बेसी कॅ चावल, दाल,
+                     रुपया-पैसा देलके बेटी [बाप?] के, बाप के । जे, “लॅ जाऊ पप्पा, खाएब ।” The seven
+                     sisters started living in that palace. They lived a very prosperous life. One
+                     day their father, Pappā, begging from one to place to other, arrived at his
+                     daughters’ palace. He went there begging for alms. When she saw him, she
+                     thought, “This is my own daughter [father], this is my father.” She thought,
+                     “This is my father.” Then to his daughter…his daughter gave him a large amount
+                     of rice, beans, rupees and money to her daughter [father], to her father. She
+                     said, “Please take this, Pappā, eat it.” तहन कहलके, “हम ने चिन्हेछीय बेटी तोरा,
+                     तू के छॅ ?” Then he said, “I do not recognize you, O daughter, who are you?” त,
+                     “आहाँ हमर पप्पा छी । माँ केना ए ? बाबू केना ए ?” She replied, “You are my
+                     father. How is Ma? How is father?” त कहलके जे, “सब ठीकै छो ।” Then he said,
+                     “Everyone is doing just fine.” “आहाँ के बच्चा,” बेटी पूछलके, “आहाँ के बेटा-बेटी
+                     भेल रेहै ?” “Your children,” his daughter asked, “Did you have sons or
+                     daughters?” त कहलके, “नोय ।” He replied, “No.” आ तऽ, “नै बेटी भेल, बेटा नै रेहै
+                     ?” She continued, “Did you not have any daughters, no sons either?” त, “नोय, उ
+                     सब...नै रेहै । भेल, सब मएर गेल ।” He replied, “No, they were…they do not exist.
+                     They existed, but they all perished.” त ओकर बेटी कहलके, “हमही छीं, पप्पा, आहाँ
+                     के बेटी ।” Then his daughter said, “I am your daughter, Pappā.” तहन खूब दॅ लॅ
+                     के देलकै, बाप के बिदा केलॅक । अपना माँ के, पप्पा के, सब कॅ ओय महल में लॅ आयल,
+                     सब अपन सुखी सॅ रह लागल, संग में । Then she gave many things to him, and she
+                     gave him a good farewell. Afterward, she brought her mother, her father and
+                     others to the palace, and everyone lived happily ever after, they lived
+                     together. </p>
+               </sp>
             </div2>
-            
+
          </div1>
       </body>
-  </text>
+   </text>
 </TEI>
